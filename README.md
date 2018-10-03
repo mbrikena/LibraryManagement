@@ -1,1 +1,1 @@
-# mbrikena
+The project is developed in asp.net and is a website about the library management. You can add books, authors and new customers, edit or delete them. Customers can lend books and if another customer has lended the book you can make an order and len the book once it's free.
